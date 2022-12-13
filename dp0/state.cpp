@@ -5,7 +5,6 @@
 #include <sstream>
 #include <list>
 #include <algorithm>
-#include "stdafx.h
 
 class CTelevisor;
 
